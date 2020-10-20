@@ -1,1 +1,3 @@
 /woocommerce.php
+/vendor/
+node_modules
